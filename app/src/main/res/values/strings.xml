@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Trivia</string>
+    <string name="welcometitleline1">Welcome to\nTrivia App</string>
+    <string name="welcometitleline2">Trivia App</string>
+    <string name="loading">Loading Trivia</string>
+    <string name="exit">Exit</string>
+    <string name="startTrivia">Start Trivia</string>
 </resources>
